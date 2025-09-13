@@ -1,0 +1,4 @@
+cultura, data, ano_safra, comprimento, largura, espacamento, area_cultura, manejo_insumos,
+Café, 13/09/2025, 2024, 120.0, 200.0, 2.0, 20000.0, 8000.0,
+Soja, 10/02/2025, 2024, 50.0, 10.0, 1.0, 20000.0, 1600.0, 
+Café, 01, 2024, 50.0, 100.0, 1.0, 5000.0, 20000.0, 
