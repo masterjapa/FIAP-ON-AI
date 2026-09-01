@@ -1,0 +1,34 @@
+# Modelos treinados
+modelos/
+*.pkl
+
+# Dados gerados
+dados_agricolas.csv
+metricas_modelo.csv
+metricas_todos_modelos.csv
+
+# Banco de dados
+dados_sensores.db
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/
+

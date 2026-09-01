@@ -1,0 +1,10 @@
+# Ambiente virtual Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Amostra de imagens gerada localmente (vai para o Google Drive, nao para o repo)
+Fase_01/imagens_ecg/
