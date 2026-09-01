@@ -1,0 +1,39 @@
+CardioIA — Fase 1: Batimentos de Dados
+Diego Filipe Pereira de Araujo — RM567064
+Links de entrega
+
+=== GitHub ===
+
+Repositório (raiz):
+https://github.com/theantimatter/FIAP-ON-AI
+
+Pasta desta fase:
+https://github.com/theantimatter/FIAP-ON-AI/tree/main/Fase_01
+
+README da entrega (documento resumo):
+https://github.com/theantimatter/FIAP-ON-AI/blob/main/Fase_01/README.md
+
+Parte 2 — textos para NLP:
+https://github.com/theantimatter/FIAP-ON-AI/tree/main/Fase_01/assets
+
+=== Google Drive (acesso público) ===
+
+Parte 1 — dataset numérico (cardioia_pacientes.csv, 303 registros):
+https://drive.google.com/drive/folders/1jPdA8cZuBwcydyPc8F6SHNlUeifP-DFM?usp=drive_link
+
+Parte 3 — imagens de ECG (128 imagens, 4 classes):
+https://drive.google.com/drive/folders/1frAroUpYGg2X7ZSsoFDV3kY5PpJHRlgp?usp=drive_link
+
+=== Fontes originais dos dados ===
+
+Parte 1 — UCI Heart Disease (base Cleveland), CC BY 4.0:
+https://archive.ics.uci.edu/dataset/45/heart+disease
+
+Parte 2 — Estatística Cardiovascular Brasil 2023, Arq. Bras. Cardiologia:
+https://doi.org/10.36660/abc.20240079
+
+Parte 2 — Fatores de risco cardiovascular, Rev. Assoc. Med. Bras.:
+https://doi.org/10.1590/S0104-42302009000500028
+
+Parte 3 — ECG Images dataset of Cardiac Patients, Mendeley Data, CC BY 4.0:
+https://doi.org/10.17632/gwbz3fsgp8.2
