@@ -1,2 +1,0 @@
-# Opcional (ex.: Jupyter local). No Google Colab as dependências são instaladas nas células dos notebooks.
-ipykernel
