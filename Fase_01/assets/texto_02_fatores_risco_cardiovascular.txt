@@ -1,0 +1,482 @@
+Titulo : Frequencia de fatores de risco cardiovascular em voluntarios participantes de evento de educacao em saude
+Fonte  : Revista da Associacao Medica Brasileira, v. 55, n. 5, 2009
+DOI    : https://doi.org/10.1590/S0104-42302009000500028
+Licenca: CC BY 4.0
+----------------------------------------------------------------------
+
+Artigo Original
+606 Rev Assoc Med Bras 2009; 55(5): 606-10
+*Correspondência: 
+Departamento de Clinica 
+Medica 
+Faculdade de Medicina de 
+Botucatu
+Distrito de Rubião Jr. s/n
+CEP 18618-000
+Botucatu - SP 
+Resumo
+Introdução . As doenças cardiovasculares (DCV) constituem a principal causa de óbito no Brasil. 
+objetIvo. Avaliar a frequência dos fatores de risco para DCV em indivíduos participantes de evento de 
+educação em saúde na comunidade. 
+Métodos. Foram analisados retrospectivamente 428 formulários contendo informações clínicas e demo-
+gráficas de voluntários participantes de evento em saúde, realizado em maio de 2006. Comparações 
+entre proporções foram realizadas pelo teste do Qui quadrado e entre grupos pelo teste t de Student. 
+As associações entre hipertensão arterial (HAS) e diabetes mellitus (DM) e variáveis clínicas foram 
+avaliadas pelo modelo de regressão logística multivariado. O nível de significância adotado foi p<0,05.
+resultados. A idade média foi 57±14 anos, sendo 58% mulheres. Os principais fatores de risco 
+cardiovascular observados foram HAS (39,5%), DM (15,4%) e dislipidemia (25,8%), sendo que 
+8,4%, 17,5% e 33,1%, respectivamente, não sabiam informar sobre esses antecedentes. Antecedentes 
+familiares de DCV ocorreram em 41% dos indivíduos e somente 67% referiram ter algum acesso a infor-
+mações sobre DM ou dislipidemia. Entre os obesos (IMC≥30 Kg/m 2, 27,3% da casuística), a pressão 
+arterial sistólica (133±16mmHg) e diastólica (84±11,5mmHg) e a glicemia casual (124±52,5mg/
+dl) foram maiores que nos não obesos (p<0,05). Houve associação entre obesidade e dislipidemia 
+(p=0,04). Idade e IMC foram associados de forma independente com a presença de HAS e DM. 
+ConClusão. A alta prevalência de fatores de risco modificáveis na população avaliada sugere a neces -
+sidade de medidas de saúde pública que promovam educação e prevenção primária dirigida, princi -
+palmente, para indivíduos idosos e com sobrepeso. 
+Unitermos : Diabetes mellitus. Obesidade. Hipertensão arterial. Doença cardiovascular. Fatores de 
+risco. População comunitária.
+FrequênCIa de Fatores de rIsCo CardIovasCular eM 
+voluntár Ios partICIpantes de evento de eduCação eM saúde
+rodrIgo soler Coltro1, bruno MoreIra MIzutanI1, anIbal MuttI1, MarIa paula barbIerI délIa1, luIz MárIo baptIsta MartInellI1, ana lúCIa CognI2, 
+beatrIz bojIkIan Matsubara3*
+Trabalho realizado no departamento de Clínica Médica - Faculdade de Medicina de Botucatu – UNESP , Botucatu, SP
+1. Acadêmico de medicina da Faculdade de Medicina de Botucatu, Botucatu, SP
+2. Cardiologista assistente da Unidade Coronariana, Hospital das Clínicas, Faculdade de Medicina de Botucatu, Botucatu, SP
+3. Professora adjunta do Departamento de Clínica Médica, Faculdade de Medicina de Botucatu, Botucatu, SP
+Introdução
+As doenças cardiovasculares são a principal causa de óbitos 
+no Brasil, correspondendo a cerca de 30% dos óbitos nas 
+diversas faixas etárias 1. Além disso, representam a principal 
+causa de gastos em assistência médica pelo SUS 2. De acordo 
+com um estudo norte-americano 3 as mortes por doença cardio -
+vascular distribuem-se da seguinte forma: doenças coronarianas 
+- 53%, acidente vascular cerebral (AVC) - 15%, e doenças 
+arteriais periféricas - 5%.
+A Organização Mundial da Saúde (OMS) classifica os fatores 
+de risco em dois grupos, um deles relacionado com o indivíduo 
+e o outro relacionado ao ambiente. O primeiro grupo de fatores 
+de risco subdivide-se em: geral (idade, sexo, escolaridade, 
+herança genética), associados ao estilo de vida (tabagismo, 
+dieta inadequada e sedentarismo) e intermediários ou biológicos 
+(hipertensão arterial sistêmica - HAS, obesidade e hipercolestero-
+lemia). No segundo grupo estão as condições socioeconômicas, 
+culturais, ambientais e de urbanização 4.
+Diversos estudos mostraram o papel das dislipidemias (DLP; 
+LDL-colesterol elevado e HDL-colesterol diminuído), HAS, fumo, 
+idade e diabete melito (DM) como fatores de risco independentes 
+para a aterosclerose e consequente doença isquêmica do coração 
+(DIC)5. Considerando-se o AVC, o mais importante fator de risco 
+independente é a HAS. Ensaios clínicos controlados indicaram 
+redução da morbimortalidade por doença cardiovascular em 
+indivíduos que obtiveram redução terapêutica dos níveis pres -
+sóricos6. Além da HAS, há outros fatores que potencializam os 
+fatores independentes, denominados fatores predisponentes, 
+como história familiar de DIC, obesidade, sedentarismo, etnia e 
+fatores psicossociais.
+O estudo “Avaliação dos fatores de risco para infarto agudo 
+do miocárdio (IAM) no Brasil” (AFIRMAR), descreveu que os 
+fatores de risco independentes associados ao IAM foram: taba -
+gismo igual ou superior a cinco cigarros/dia, glicemia maior ou 
+igual que 126 mg/dl, relação cintura-quadril maior que 0,94, 
+história familiar de doença aterosclerótica coronariana (DAC), 
+
+607Rev Assoc Med Bras 2009; 55(5): 606-10
+FreqUência de Fatores de risco cardiovasc Ular em volUntários participantes de evento de edUcação em saúde
+LDL-c entre 100 e 120 mg/dl ou maior, HAS ou DM, ingestão 
+de álcool até duas vezes por semana e entre três a sete dias na 
+semana, renda familiar entre R$ 600,00 e R$ 1200,00 e grau 
+de instrução 7. No estudo FRICAS (Fatores de Risco para Infarto 
+do Miocárdio no Brasil) foram observados os mesmos fatores de 
+risco que no estudo AFIRMAR. Contudo, fatores como a história 
+familiar positiva, melhor situação econômica e consumo de 
+alimentos ricos em gorduras saturadas apresentaram associação 
+positiva significativa com o risco de infarto 8.
+De acordo com as últimas diretrizes da Sociedade Brasileira 
+de Cardiologia, os fatores de risco mais evidentes no panorama 
+da saúde cardiovascular no Brasil são: tabagismo, HAS, DM, 
+obesidade e dislipidemias 9. O aumento do IMC também foi asso-
+ciado com prevalência elevada de HAS, DM, hipertrigliceridemia 
+e HDL-colesterol baixo 10.
+Segundo dados da literatura, o controle de alguns dos fatores 
+de risco independentes diminuiu de forma significativa a morbi -
+mortalidade secundária à aterosclerose 11,12,13. 
+O estudo INTERHEART avaliou as razões de chance agru -
+pando fatores de risco. Quando conjuntamente avaliados, taba -
+gismo, HAS e DM elevaram a razão de chances para IAM igual 
+a 13,01 (IC 99%: 10,69-15,83) em relação aos indivíduos sem 
+esses fatores de risco cardiovascular, sendo estes responsáveis 
+por 53% do risco atribuível. Portanto, teoricamente, a eliminação 
+desses fatores como medida de prevenção primária, reduziria os 
+casos de IAM em até 53% 14.
+Sabe-se que a redução de peso corporal e a mudança do 
+estilo de vida tem efeitos benéficos nos principais fatores de risco 
+cardiovascular 15,16,17,18,19 . No entanto, as medidas educativas que 
+estimulem mudanças de estilo de vida e hábitos alimentares 
+ainda são insuficientes em nosso meio e suspeita-se que a 
+população não tenha acesso amplo a informações sobre fatores 
+de risco cardiovascular ou a medidas de prevenção primária 
+dessas doenças.
+Diante desse cenário, o objetivo do presente estudo foi avaliar 
+a frequência de fatores de risco cardiovascular e o acesso à 
+informação sobre esses fatores na população que visitou espon -
+taneamente um evento comunitário de educação em saúde, 
+incluindo nas análises a influencia do fator gênero.
+Métodos
+Estudo transversal e retrospectivo incluindo 428 fichas 
+padrão contendo questionário e informações sobre caracterís -
+ticas demográficas e físicas de voluntários participantes de evento 
+comunitário de educação em saúde, realizado em maio de 2006, 
+em Botucatu, cidade do interior do estado de São Paulo. O evento 
+ocorre anualmente na cidade, é coordenado pela Liga do Coração 
+da Faculdade de Medicina e recebe ampla divulgação local. Todos 
+os voluntários assinaram o termo de consentimento, concor -
+dando em participar da pesquisa e o projeto foi aprovado pelo 
+Comitê de Ética em Pesquisa da instituição (Of.053/08-CEP).
+Os indivíduos foram entrevistados por estudantes de medi -
+cina treinados e forneceram informações sobre antecedentes 
+pessoais e familiares, condições de vida e hábitos. Também foi 
+perguntado sobre o acesso à informação para o conhecimento 
+dos fatores de risco cardiovascular. Nenhum paciente relatou 
+evento cardiovascular prévio.
+Após a entrevista, foram medidos peso e altura, utilizando-
+se balança eletrônica convencional. Na mesma oportunidade 
+foi aferida a pressão arterial com esfigmomanômetro aneróide, 
+após repouso na posição sentada por cinco minutos. A glicemia 
+foi verificada por meio de monitores portáteis para glicemia, 
+marca Roche®, modelo Accu-Chek Active  e fitas reagentes para 
+Accu-Chek , marca Roche®. Para isso, obteve-se gota de sangue 
+por punção digital, utilizando-se material padrão descartável.
+Foram considerados os seguintes valores de normalidade: 
+pressão arterial sistólica ≤ 140 mmHg; pressão arterial dias -
+tólica ≤ 90mmHg; glicemia em aferição casual ≤ 200 mg/dl. 
+Os indivíduos foram considerados hipertensos nas seguintes 
+condições: utilizavam medicação anti-hipertensiva ou referiam a 
+doença e apresentaram pressão arterial aumentada na avaliação. 
+Os indivíduos foram considerados diabéticos nas seguintes 
+condições: utilizavam medicação hipoglicemiante ou referiam a 
+doença e apresentaram glicemia aumentada na avaliação 20,21. 
+O índice de massa corpórea (IMC; kg/m²) foi calculado a partir 
+dos valores de peso (P; kg) e altura (A; m): IMC=P/A². Valores 
+maiores ou iguais a 25 kg/m² foram considerados sobrepeso/
+obesidade.
+métodos estatísticos
+As variáveis contínuas foram apresentadas como médias e 
+respectivos desvios padrão ou como mediana e amplitude inter -
+quartílica. As variáveis categóricas foram apresentadas como 
+proporções. As comparações entre subgrupos foram efetuadas 
+por meio de teste t de Student ou Mann-Whitney ou teste do 
+Qui quadrado (X²). As variáveis clínicas e demográficas que se 
+associaram com HAS e DM, no modelo univariado, com proba -
+bilidade de até 0,20 foram introduzidas no modelo de regressão 
+logística multivariado. Em todas as análises foi adotado o nível 
+de significância p<0,05.
+resultados
+Dentre os 428 participantes da casuística, 247 eram mulheres 
+(57,7%). As principais variáveis clínicas estão expressas na 
+Tabela 1. Não houve diferenças relevantes entre homens e 
+mulheres, com exceção da pressão arterial diastólica que foi 
+maior entre os homens (84±11,2 mmHg vs. 81±11,8 mmHg, 
+p=0,009). Antecedentes familiares para doenças cardiovascu -
+lares foram referidos por 41% dos indivíduos (28% mulheres e 
+13% homens, p<0,001), sendo que 7% não sabiam informar 
+sobre essa variável. Tabagismo atual foi referido por 11,9%, sem 
+diferença entre homens e mulheres. Dentre os indivíduos que 
+negaram tabagismo atual, 67,3% nunca haviam fumado (44,9% 
+homens e 22,3% mulheres) e 32,7% referiram ser fumantes 
+prévios (18,7% homens e 14,1% mulheres). Essas diferenças 
+foram estatisticamente significantes (p<0,001). A frequência de 
+HAS (total: 39,5%; homens: 16,8% e mulheres: 22,7% ; p= 
+0,81) e DM (total: 15,4%; homens: 6,1% e mulheres: 10,7% 
+; p= 0,70) foi comparável entre homens e mulheres. A maioria 
+dos indivíduos incluídos na casuística (total: 67%; homens: 
+24,4% e mulheres: 42,6% ; p= 0,001) referiu ter acesso a 
+informações sobre fatores de risco cardiovascular. No entanto, 
+observou-se que, considerando os fatores de risco HAS, DM 
+e DLP , houve um percentual crescente de indivíduos que não 
+sabiam informar sobre a presença ou ausência da doença (8,4%, 
+17,5% e 33,1%, respectivamente, p<0,001). 
+Os fatores associados de forma independente e positiva com 
+o diagnóstico de HAS estão expressos na Tabela 2 e incluíram a 
+idade (OR: 1,05; IC95%: 1,03-1,07; p<0,001) e o IMC (OR: 
+1,09; IC95%: 1,04-1,14; p<0,001). Antecedente familiar 
+
+coltro rs et al.
+608 Rev Assoc Med Bras 2009; 55(5): 606-10
+Tabela 1 - Variáveis clínicas observadas na casuística total e a comparação entre homens e mulheres
+Variável mulheres Homens
+Casuística total (n= 428) p
+(n= 247) (n= 181)
+Idade (anos) 57 ± 14,2 56 ± 15 58 ± 14 0,143
+IMC (Kg/m²) 27,8 ± 5,1 28,2 ± 5,6 27,5 ± 4,3 0.187
+PAS (mmHg) 130 ± 18,0 129 ± 18,7 132 ± 16,7 0,077
+PAD (mmHg) 82 ± 11,5 81 ± 11,8 84 ± 11,2 0,009
+Glicemia casual (mg/dL) 116 ± 45 116 ± 45 115 ± 44 0,899
+IMC: Índice de massa corporal; PAS e PAD: pressão arterial sistólica e diastólica, respectivamente.
+Tabela 2 - modelo de regressão logística para explicar a presença de hipertensão arterial
+Fatores p oR IC 95%
+Intercepto -5,04 <0,001   
+Idade (anos) 0,05 <0,001 1,05 (1,03 - 1,07)
+Sexo Feminino 0,03 0,894 1,31 (0,66 - 1,62)
+IMC (kg/m2) 0,08 <0,001 1,09 (1,04 - 1,14)
+AF negativo -0,72 0,004 0,49 (0,30 - 0,79)
+Tabagismo negativo -0,09 0,807 0,92 (0,46 - 1,83)
+Sem acesso a informação -0,29 0,239 0,75 (0,46 - 1,21)
+AF: antecedente familiar para hipertensão arterial
+negativo para HAS constituiu fator protetor, associado à ausência 
+da doença (OR: 0,49; IC95%: 0,30-0,79; p=0,004). 
+As variáveis associadas com a presença de DM (Tabela 3) 
+foram idade (OR: 1,05; IC95%: 1,02-1,08; p<0,001) e IMC 
+(OR: 1,15; IC95%: 1,08-1,22; p<0,001). Antecedente familiar 
+negativo para a doença foi fator protetor (OR: 0,16; IC95%: 
+0,07-0,35; p<0,001). Curiosamente, nesta casuística, a falta de 
+informação sobre fatores de risco cardiovascular associou-se com 
+menor chance de DM (OR: 0,22; IC95%: 0,09-0,52; p=0,001).
+Não foram observadas associações significantes entre as 
+variáveis clínicas ou demográficas com a variável dislipidemia. 
+dIsCussão
+O presente estudo teve como objetivo avaliar a frequência de 
+fatores de risco para doenças cardiovasculares, em uma casu -
+ística específica, não selecionada para representar a população 
+geral e constituída por voluntários que visitaram espontanea -
+mente um evento de educação em saúde realizado na comuni -
+dade. Observou-se que o gênero dos indivíduos avaliados não 
+foi fator de risco para a ocorrência de DM ou HAS.
+Nessa população, foram observadas altas frequências dos 
+fatores de risco para o evento IAM, apontados pelo estudo FRICAS8. 
+Foi interessante notar que, embora os valores médios da pressão 
+arterial estivessem abaixo do limite da normalidade, quase a metade 
+da casuística foi classificada como sendo de indivíduos hipertensos. 
+Essa frequência é mais elevada do que a descrita em estudos popu-
+lacionais22-24 e, provavelmente, se deve ao fato da casuística não 
+representar a população da região. Isto é, durante o evento, pessoas 
+com alguma doença previamente diagnosticada poderiam sentir-se 
+mais atraídas em participar do estudo, causando um possível viés. 
+Embora esse argumento também possa ser aplicado aos 
+outros fatores, chamou a atenção a alta frequência de indiví -
+duos com sobrepeso/obesidade. Por exemplo, Nunes Filho et 
+al25 relataram prevalência de apenas 15,6% de obesidade em 
+estudo realizado entre janeiro e março de 2006, no município 
+de Luzerna - SC. Além disso, nesse estudo, os autores obser -
+varam diferenças estatisticamente significativas entre homens 
+e mulheres relacionadas à presença de diabetes (p < 0,035), 
+tabagismo (p = 0,043) e dislipidemia (p= 0,002) com preva -
+lências maiores entre os homens, contrariando os resultados do 
+presente estudo. 
+
+FreqUência de Fatores de risco cardiovasc Ular em volUntários participantes de evento de edUcação em saúde
+609Rev Assoc Med Bras 2009; 55(5): 606-10
+Outro resultado interessante foi a observação de que um 
+terço dos indivíduos negaram acesso a informações sobre risco 
+cardiovascular, indicando que a população não se encontra 
+suficientemente esclarecida sobre esse aspecto. Possivelmente, 
+na falta de diagnóstico de doenças associadas a maior risco 
+cardiovascular, o acesso a informação específica é muito menor. 
+Portanto, é válido sugerir que esses indivíduos não frequentam os 
+serviços de saúde ou o fazem de forma inadequada. Interessante 
+a maior porcentagem de mulheres com acesso a informações 
+sobre fatores de risco. Embora não tenhamos encontrado estudos 
+abordando esse aspecto específico, parece oportuno sugerir 
+que as campanhas de esclarecimento e prevenção de doenças 
+cardiovasculares devam levar em conta que as mulheres podem 
+estar mais atentas e sensibilizadas para esta questão.
+Foi particularmente relevante a observação de que uma 
+proporção significativamente maior de pessoas não sabia referir 
+sobre o seu estado de saúde quanto à presença de dislipidemia, 
+quando comparada com a mesma proporção em relação à 
+presença de hipertensão arterial. Esse resultado sugere que as 
+campanhas de educação em saúde, ou a atenção médica ou 
+mesmo os meios de comunicação em geral foram mais eficientes 
+quanto aos esclarecimentos da importância do diagnóstico e 
+prevenção da hipertensão arterial do que da dislipidemia. No 
+Brasil, são poucos os dados sobre a prevalência da dislipidemia, 
+porém existem evidências sugerindo que essa prevalência é 
+elevada, comparavel àquelas relatadas por estudos norte-ameri -
+canos, reforçando a necessidade de ações para melhorar esta 
+condição.26 No presente estudo, a falta da medida do perfil lipí -
+dico e a desinformação dos indivíduos sobre a questão impediu 
+as análises de associação entre variáveis clínicas e demográficas 
+com esse fator de risco cardiovascular. 
+Os resultados obtidos indicaram claramente que, na popu -
+lação estudada, idade mais avançada e maior IMC aumentaram 
+a chance de HAS e DM. Essas doenças são componentes impor-
+tantes da Síndrome Metabólica (SM). A SM é um transtorno 
+representado por um conjunto de fatores de risco cardiovascular 
+relacionados à deposição central de gordura e à resistência à 
+insulina. Essa síndrome é associada com a doença cardiovas -
+cular, aumentando a mortalidade geral em cerca de 1,5 vezes e 
+a cardiovascular em cerca de 2,5 vezes.
+Em estudo recente  27 , foi possível verificar que a análise 
+conjunta dos fatores de risco, tendo como instrumentos infor -
+mações de fácil obtenção (ex: níveis pressóricos e tratamento 
+de hipertensão arterial, nível socioeconômico, tabagismo, IMC e 
+antecedente familiar de diabetes mellitus) prediz a possibilidade 
+de eventos cardiovasculares de maneira tão eficaz quanto testes 
+laboratoriais invasivos baseados em valores pré-estabelecidos. 
+Esses resultados indicam que a implementação de medidas 
+preventivas poderia ser mais eficaz e com baixo custo.
+Outro estudo atual sobre fatores de risco cardiovascular, 
+realizado no Reino Unido, incluiu mais de 17.000 homens 
+trabalhadores públicos, de diferentes estratos socioeconômicos. 
+A avaliação da pressão arterial foi efetuada por meio de medida 
+única, à semelhança do presente estudo, além da medida da 
+glicemia de jejum e do colesterol total. A frequência de morte 
+por DIC foi observada por 15 anos. Os autores sugeriram que 
+um programa de prevenção que efetivamente reduzisse pressão 
+arterial, colesterol total, glicemia de jejum em diabéticos, além da 
+interrupção do tabagismo em fumantes, poderia prevenir morte 
+por infarto do miocárdio. Argumentaram que essas medidas 
+poderiam reduzir em 69% as diferenças de mortalidade depen -
+dentes do nível socioeconômico. Esse estudo reforça a impor -
+tância das medidas efetivas de prevenção primária. 15
+Em conclusão, nossos resultados indicam alta a prevalência 
+de fatores de risco cardiovascular modificáveis na população 
+avaliada e que existe grau não desprezível de desinformação 
+sobre prevenção desses fatores, sugerindo a necessidade de 
+medidas de saúde pública que promovam educação e prevenção 
+primária, principalmente, em indivíduos idosos e com sobrepeso. 
+Limitações do estudo:  Além da limitação apontada sobre o 
+critério de inclusão no estudo, as medidas isoladas de pressão 
+arterial e de glicemia casual, não seriam suficientes para definir 
+Tabela 3 - modelo de regressão logística para explicar a presença de diabetes mellitus
+Fatores p oR IC 95%
+Intercepto -7,96 <0,001   
+Idade (anos) 0,05 <0,001 1,05 (1,02 - 1,08)
+Sexo Feminino 0,085 0,795 1,09 (0,57 - 2,07)
+IMC (kg/m2) 0,14 <0,001 1,15 (1,08 - 1,22)
+AF negativo -1,83 <0,001 0,16 (0,07 - 0,35)
+Tabagismo negativo -0,10 0,845 1,11 (0,40 - 3,04)
+Sem acesso a informação -1,526 0,001 0,22 (0,09 - 0,52)
+AF: antecedente familiar para diabetes mellitus
+
+coltro rs et al.
+610 Rev Assoc Med Bras 2009; 55(5): 606-10
+o diagnóstico de hipertensão arterial ou diabetes mellitus, 
+respectivamente. No entanto, essas medidas somente foram 
+consideradas quando os indivíduos classificados como porta -
+dores dessas doenças referiram o antecedente ou confirmaram 
+o uso da medicação específica para seu tratamento.
+agradeCIMentos
+Aos integrantes da Liga do Coração de Botucatu, turma 
+2006/2007, pelo auxílio na aplicação dos questionários; aos 
+integrantes do Centro Acadêmico do Curso de Enfermagem 
+(CAENF), da Faculdade de Medicina de Botucatu, pelo auxílio nas 
+avaliações da glicemia; ao estatístico Hélio Rubens de Carvalho 
+Nunes pelo auxílio nas análises dos resultados. 
+À SOCESP , regional Botucatu, pelo suporte na elaboração 
+dos formulários a serem preenchidos e orientação quanto aos 
+diversos aspectos do atendimento aos participantes do estudo.
+Conflito de interesse:  não há
+suMMary
+CardIovasCular rIsk FaCtors In a populatIon attendIng a 
+CoMMunIty event on health eduCatIon
+Introduct Ion. Cardiovascular diseases (CVD) are the main 
+cause of death in Brazil. 
+object Ive. To evaluate the frequency of CVD risk factors in 
+a population attending  a health education community event. 
+Methods. Retrospective study that included 428 completed 
+forms with clinical and demographic information of volunteers 
+attending a public event, in May, 2006. Data were expressed by 
+means and standard deviation or proportions and compared by 
+Student´s t test or Chi-square test. Associations between Arte-
+rial Hypertension (AH), Diabetes Mellitus (DM) and clinical 
+variables were analyzed by multinomial logistic regression. 
+Significance level was p <0.05. 
+results. Mean age was 57±14 years, and women represented 
+58% of the total population. The main cardiovascular risk factors 
+were AH (39.5%), DM (15.4%) and dyslipidemia (25.8%). The 
+frequency of unawareness about these risk factors was respec -
+tively 8.4%, 17.5% and 33.1%.. Family history of CVD was 
+reported by 41% while only 67% reported having any information 
+about DM or dyslipidemia. Among obese individuals (IMC≥30 
+Kg/m2, 27.3% of the population), systolic blood pressure 
+(133±16mmHg), diastolic blood pressure (84±11.5mmHg) and 
+casual glycemia (124±52.5mg/dl) were higher when compared 
+to non-obese (p<0.05). There was a significant association 
+between obesity and dyslipidemia (p=0.04). Age and IMC were 
+independently associated with AH and DM. 
+conclus Ion. The high frequency of modifiable cardiovas -
+cular risk factors in this population suggests the need for 
+educational programs to promote primary prevention, mainly 
+for the elderly and overweight. [Rev Assoc Med Bras 2009; 
+55(5): 606-10]
+Key words: Diabetes mellitus. Obesity. Arterial hypertension. 
+Risk factors. Community population.
+reFerênCIas
+ 1 Banco de dados do Sistema Único de Saúde. A principal causa de óbitos no 
+Brasil. [citado 7 abr 2008]. Disponível em: http://www.datasus.gov.br.
+ 2 Buss PM. Assistência hospitalar no Brasil (1984-1991): uma análise preliminar 
+baseada no Sistema de Informação Hospitalar do SUS. Inf Epidemiol SUS. 
+1993;2:5-44.
+ 3 National Institute of Health. Morbity and mortality chartbook on cardiovascular, 
+lung and blood service. Bethesda: National Institute of Health; 1990.
+ 4 Nobre RCN, Domingues RZL, Silva AR, Colugnati, FAB, Tadde, JAAC. Prevalências 
+de sobrepeso, obesidade e hábitos de vida associados ao risco cardiovascular em 
+alunos do ensino fundamental. Rev Assoc Med Bras. 2006;52:118-24.
+ 5 Grundy SM, Pasternak R, Greenland P , Smith S JR, Fuster V. Assessment of cardio-
+vascular risk by use of multiplerisk- factor assessment equations: a statement for 
+healthcare professionals from the American Heart Association and the American 
+College of Cardiology. Circulation. 1999;100:1481-92.
+ 6 Collins R, Peto R, MacMahon S, Hebert P , Fiebach NH, Eberlein KA et al. Blood 
+pressure, stroke and coronary heart disease. Part 2, short-term reductions in blood 
+pressure: overview of randomised drug trials in their epidemiological context. 
+Lancet. 1990;335:827-38.
+ 7 Piegas LS, Avezum A, Pereira JCR, Rossi-Neto JM, Hoepfner C, Farran JA, Ramos 
+RF , et al. On behalf of the AFIRMAR study investigators. Risk factors for myocardial 
+infarction in Brazil. Am Heart J. 2003;146:331-8.
+ 8 Estudo FRICAS. Arq Bras Cardiol. 1998;71:667-75.
+ 9 IV Diretriz Brasileira Sobre Dislipidemias e Prevenção da Aterosclerose.Departa-
+mento de Aterosclerose da Sociedade Brasileira de Cardiologia. Arq Bras Cardiol. 
+2007;88:2-19.
+ 10 Cercato C, Mancini MC, Arguello AMC, Passos VQ, Villares SMF , Halpern A. 
+Hipertensão arterial, diabetes melito e dislipidemia de acordo com o índice de 
+massa corpórea: estudo em uma população Brasileira. Rev Hosp Clín Fac Med 
+São Paulo. 2004;59:113-8.
+ 11 Colins R, Peto R, MacMahon S, Hebert P , Fiebach NH, Eberlein KA, et al. Blood 
+pressure, stroke, and coronary heart disease. Part 2: short-term reductions in 
+blood pressure: overview of randomized drug trials in their epidemiological context. 
+Lancet. 1990;335:827-38.
+ 12 Hebert PR, Gaziano JM, Chan KS, Hennekens CH. Cholesterol lowering with 
+statin drugs, risk of stroke, and total mortality. An overview of randomized trials. 
+JAMA. 1997;278:313-21.
+ 13 Hermanson B, Omenn GS, Kronmal RA, Gersh BJ. Beneficial six-year outcome of 
+smoking cessation in older men and women with coronary artery disease. Results 
+from the CASS registry. N Engl J Med. 1988;319:1365-9.
+ 14 Yusuf S, Ounpuu S, Dans T, Avezum A, Lenas F , McQueen M, et al. Effect of poten-
+tially modifiable risk factors associated with myocardial infarction in 52 countries 
+(the INTERHEART study): case-control study.Lancet. 2004;364:937-52.
+ 15 Kivimäki M, Shipley MJ, Ferrie JE, Singh-Mannoux A, Batty GD, Chandola T, et 
+al. Best-practice interventions to reduce socioeconomic inequyalities or coronary 
+heart disease mortality in UK: a prospective occupational cohort study. Lancet, 
+2008;372:1648-54.
+ 16 Steffen PR, Sherwood A, Gullette ECD, Georgiades A, Hinderliter A, Blumenthal 
+JA. Effects of exercise and weight loss on blood pressure during daily life. Med 
+Sci Sports Exerc. 2001;33:1635-40.
+ 17 Ross R, Janssen I. Physical activity, total and regional obesity: dose-response 
+consideration. Med Sci Sports Exerc. 2001;33:521-7.
+ 18 Liu S, Manson JE, Lee I, Cole SR, Hennekins CH, Willett WC, et al. Fruit and 
+vegetable intake and risk of cardiovascular disease: the womens health study. 
+Am J Clin Nutr. 2000;72:922-8.
+ 19 Castelli WP , Anderson K, Wilson PW, Levy D. Lipids and risk of coronary heart 
+disease. The Framingham Study. Ann Epidemiol. 1992;2:23-8.
+ 20 V Diretrizes Brasileiras de Hipertensão Arterial, 2006. [citado 7 abr 2008]. 
+Disponível em http://publicacoes.cardiol.br/consenso/2006/VDiretriz-HA.asp.
+ 21 American Diabetes Association. Diagnoses and Classification of Diabetes Mellitus. 
+Diabetes Care. 2004;27:S5-S10.
+ 22 IV Brazilian Guidelines in Arterial Hypertension. Arq Bras Cardiol. 2004;82(Suppl 
+4):7-22.
+ 23 Gus I, Harzheim E, Zaslavsky C, Medina C, Gus M. Prevalence, Awareness, and 
+Control of Systemic Arterial Hypertension in the State of Rio Grande do Sul. Arq 
+Bras Cardiol. 2004;83:429-33.
+ 24 Matos AC, Ladeia AM. Assessment of cardiovascular risk factors in a rural 
+community in the brazilian state of Bahia. Arq Bras Cardiol 2003;81:297-302.
+ 25 Nunes Filho JR, Debastiani D, Nunes AD, Peres, KC. Prevalência de fatores de 
+risco cardiovascular e adultos de Luzerna, Santa Catarina, 2006. Arq Bras Cardiol. 
+2007;89:319-24.
+ 26 Bertolani MC, Bertolani A. Epidemiologia das dislipidemias. Rev Soc Cardiol 
+Estado de São Paulo. 2006;1:24-30.
+ 27 Gaziano TA, Young CR, Fitzmaurice G, Atwood S, Gaziano JM. Laboratory-based 
+versus non-laboratory-based method for assessment of cardiovascular disease 
+risk: the NHANES I Follow-up Study cohort. Lancet. 2008;371:923-31.
+Artigo recebido: 07/06/08
+Aceito para publicação: 12/04/09
